@@ -1,6 +1,6 @@
-﻿{
-    "download_url":  "https://github.com/zydzxymml/mouse-macro-update/releases/download/v1.7.15/_._v1.7.15.zip",
-    "exe_size":  103846801,
-    "version":  "1.7.15",
-    "notes":  "v1.7.15：宏导入导出增强（全部导出zip+截图、导入冲突弹窗）+ 自动更新模块上线"
+{
+    "download_url": "https://github.com/zydzxymml/mouse-macro-update/releases/download/v1.7.16/update_v1.7.16.zip",
+    "exe_size": 103848560,
+    "version": "1.7.16",
+    "notes": "v1.7.16：修复程序闲置很久后点播放卡死、热键失灵（热键心跳检测+自动重建监听器）"
 }
