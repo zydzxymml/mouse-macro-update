@@ -1,5 +1,5 @@
 {
-    "download_url": "https://github.com/zydzxymml/mouse-macro-update/releases/download/v1.7.20/update_v1.7.20.zip",
+    "download_url": "https://github.com/zydzxymml/mouse-macro-update/releases/download/1.7.20/update_v1.7.20.zip",
     "exe_size": 103849502,
     "version": "1.7.20",
     "notes": "v1.7.20：热键彻底根治——全部改用系统级热键(RegisterHotKey)，不依赖键盘钩子永不失效；紧急停止Ctrl+Alt+F7系统级兜底；修复录制时鼠标/键盘回调崩溃"
