@@ -1,6 +1,6 @@
 {
-    "download_url": "https://github.com/zydzxymml/mouse-macro-update/releases/download/1.7.20/update_v1.7.20.zip",
-    "exe_size": 103849502,
-    "version": "1.7.20",
-    "notes": "v1.7.20：热键彻底根治——全部改用系统级热键(RegisterHotKey)，不依赖键盘钩子永不失效；紧急停止Ctrl+Alt+F7系统级兜底；修复录制时鼠标/键盘回调崩溃"
+    "download_url": "https://github.com/zydzxymml/mouse-macro-update/releases/download/1.7.21/update_v1.7.21.zip",
+    "exe_size": 103866890,
+    "version": "1.7.21",
+    "notes": "v1.7.21：整体风格统一（深蓝灰表头+浅色界面）；按钮内热键小字提示；宏列表勾选/全选/导出勾选/分享包；热键设置支持按键监听识别与冲突中文提示；坐标拾取F3加固"
 }
