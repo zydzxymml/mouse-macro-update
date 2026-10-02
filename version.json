@@ -1,6 +1,6 @@
 {
-    "download_url": "https://github.com/zydzxymml/mouse-macro-update/releases/download/1.7.24/update_v1.7.24.zip",
-    "exe_size": 103871092,
-    "version": "1.7.24",
-    "notes": "v1.7.24：控制面板按钮样式重新设计（热键小字左上角+图标与主文字一行居中、按钮加高58px、9按钮+录制鼠标移动勾选一行放得下不超屏）；宏步骤表格空行自动补占位网格线、网格线颜色加深更清晰"
+    "download_url": "https://github.com/zydzxymml/mouse-macro-update/releases/download/1.7.25/update_v1.7.25.zip",
+    "exe_size": 103874822,
+    "version": "1.7.25",
+    "notes": "v1.7.25：控制面板按钮皮肤可选（热键设置→按钮皮肤，4种：扁平色块/质感渐变/深色游戏风/简约浅色，切换立即生效、重启保持）；录制中/录屏中红色状态改为临时覆盖自动恢复；默认保持原样式"
 }
